@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['pivot_ui.py'],
+    ['Pivot_Ui.py'],
     pathex=[],
     binaries=[],
     datas=[('photo/pivot_background.jpeg', '.')],
@@ -22,7 +22,7 @@ exe = EXE(
     a.binaries,
     a.datas,
     [],
-    name='pivot_ui',
+    name='Pivot_Ui',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,

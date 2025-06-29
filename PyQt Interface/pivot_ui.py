@@ -3,7 +3,7 @@ import pivot_bg_rc
 
 class Ui_Form(object):
     def setupUi(self, Form):
-        Form.setObjectName("Form")
+        Form.setObjectName("Dynamic-Support-Resistance")
         self.groupBox = QtWidgets.QGroupBox(Form)
         self.groupBox.setGeometry(QtCore.QRect(0, 0, 481, 441))
         Form.setFixedSize(481, 441) 

@@ -1,5 +1,5 @@
 ('C:\\Users\\User\\Desktop\\Dynamic-Support-Resistance\\PyQt '
- 'Interface\\build\\pivot_ui\\PYZ-00.pyz',
+ 'Interface\\build\\Pivot_Ui\\PYZ-00.pyz',
  [('PyQt5',
    'C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt5\\__init__.py',
    'PYMODULE'),
