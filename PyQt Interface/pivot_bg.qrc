@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="pivot_background">
+    <file>pivot_background.jpeg</file>
+  </qresource>
+</RCC> 
