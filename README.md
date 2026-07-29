@@ -1,1 +1,1 @@
-- pivot.py contains the logic for calculating pivot points. - the gui application is developed using pyqt5, and a compiled Windows executable (.exe) is provided.
+the calculation logic is implemented in `pivot.py`, and the PyQt5 graphical interface is provided through `Pivot_Ui.exe`.
