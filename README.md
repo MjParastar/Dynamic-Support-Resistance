@@ -1,6 +1,1 @@
-run `Calculator.exe`, or execute the source code:
-
-```bash
-pip install PyQt5
-python calc.py
-```
+- pivot.py contains the logic for calculating pivot points. - the gui application is developed using pyqt5, and a compiled Windows executable (.exe) is provided.
